@@ -1,0 +1,20 @@
+---
+---
+
+@charset "utf-8";
+$base-font-family: Consolas;
+$base-font-size:   14px;
+$small-font-size:  0.875rem;
+$base-line-height: 1.5;
+
+$text-color:   #333333;
+$bg-color:     #fcfcfc;
+$link-color:   #f14e32;
+$meta-color:   #a0a0a0;
+$marker:       #f2f2f2;
+$border-color: #dddddd;
+
+@import "color";
+@import "base";
+@import "layout";
+@import "syntax";

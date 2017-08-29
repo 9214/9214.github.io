@@ -1,0 +1,32 @@
+title: "༩ ༢ ༡ ༤"
+baseurl:
+
+# config
+date_format: "%Y%m%d"
+permalink:   :title
+exclude:     ["drafts/"]
+
+# contact info
+author:
+    email:
+      icon: envelope
+      link: mailto:snail.mailllllllllillilillll@gmail.com
+    telegram:
+      icon: telegram
+      link: https://t.me/lllllllllillilillll
+    github:
+      icon: github-alt 
+      link: https://github.com/9214
+    instagram:
+      icon: instagram 
+      link: https://www.instagram.com/lllllllllillilillll/
+    last-fm:
+      icon: lastfm-square
+      link: https://www.last.fm/user/ghsthrdwr
+    goodreads:
+      icon: book
+      link: https://goodreads.com/9214
+
+# third-party services
+google_analytics:
+disqus_shortname:

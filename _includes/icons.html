@@ -1,0 +1,6 @@
+<div class="icons">
+{% for entry in site.author %}
+{% assign info = entry.last %}
+<a href="{{ info.link }}"><i class="fa fa-{{ info.icon }} fa-lg" aria-hidden="true"></i></a>
+{% endfor %}
+</div>

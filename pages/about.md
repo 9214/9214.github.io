@@ -1,0 +1,12 @@
+---
+layout:    page
+title:     about
+permalink: /about/
+index:     1
+---
+
+> And once darkness swallows me, the whole world will be mine. <br> 
+**-- Lu Xun, "Shadow's farewell"**
+
+<h2 class="post-header">Get in touch</h2>
+{% include icons.html %}
