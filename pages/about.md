@@ -17,16 +17,34 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 {% include icons.html %} <br>
 
 **9214's** current topics of interest are:
+
+---
+
 - Memetic;
 - Swarm intelligence;
+
+---
+
 - Emergence;
 - (Digital) morphogenesis;
 - Artifical life and digital organisms;
 - Organic and bio-insipred computing;
+
+---
+
+- EEG, electrophysiology, bioelectromagnetism;
+
+---
+
 - Language-oriented programming and metaprogramming;
 - Formal languages and software language engineering;
-- Concatenative and homoiconic programming languages;
+- Concatenative, dataflow and homoiconic programming languages;
+
+---
+
 - A pinch of generative art, installations and computational design;
 - Comics, machinima, virtual photography.
+
+---
 
 If you have something related to these interests to share -- please do so.
