@@ -34,6 +34,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 
 - EEG, electrophysiology, bioelectromagnetism;
 - Dendrites, dendritic growth and function;
+
 ---
 
 - Language-oriented programming and metaprogramming;
