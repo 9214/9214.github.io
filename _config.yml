@@ -26,6 +26,9 @@ author:
     goodreads:
       icon: book
       link: https://goodreads.com/9214
+    steam:
+      icon: steam
+      link: http://steamcommunity.com/id/lllllllllillilillll
 
 # third-party services
 google_analytics:
