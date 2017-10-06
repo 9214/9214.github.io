@@ -56,11 +56,11 @@ thead {
     background: $marker;
 }
 code, pre {
- // font-family: Consolas, Courier, monospace;
+ font-family: $base-font-family;
 }
 code {
     overflow-x: auto;
-    padding: 0 4px;
+    padding: 2px 4px;
     border: 1px solid $meta-color;
     background-color: $marker;
     border-radius: 2px;
@@ -84,6 +84,7 @@ pre {
     background-color: transparent;
     padding: 0;
     border: transparent;
+    font-size: 10px;
   }
 }
 hr {
