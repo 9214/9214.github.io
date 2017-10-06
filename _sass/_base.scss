@@ -57,6 +57,7 @@ thead {
 }
 code, pre {
  font-family: $base-font-family;
+ font-size:   12px;
 }
 code {
     overflow-x: auto;
@@ -84,7 +85,7 @@ pre {
     background-color: transparent;
     padding: 0;
     border: transparent;
-    font-size: 12px;
+    font-size: 10px;
   }
 }
 hr {
