@@ -21,6 +21,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 ---
 
 - Memetic;
+- Hive mind (collective consciousness);
 - Swarm intelligence;
 
 ---
@@ -32,18 +33,21 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 
 ---
 
+- Electromagnetic theories of consciousness;
 - EEG, electrophysiology, bioelectromagnetism;
 - Dendrites, dendritic growth and function;
 
 ---
 
-- Language-oriented programming and metaprogramming;
 - Formal languages and software language engineering;
+- Language-oriented programming and metaprogramming;
 - Concatenative, dataflow and homoiconic programming languages;
 
 ---
 
-- A pinch of generative art, installations and computational design;
+- Abstract board games;
+- Narrative, comparative mythology;
+- Generative art, installations and computational design;
 - Comics, machinima, virtual photography.
 
 ---
