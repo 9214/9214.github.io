@@ -48,7 +48,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 ---
 
 - Abstract board games;
-- Narrative, comparative mythology;
+- Narrative, comparative mythology, Kali;
 - Generative art, installations and computational design;
 - Fractals;
 - Comics, machinima, virtual photography.
