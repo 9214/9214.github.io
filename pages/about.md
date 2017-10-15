@@ -21,13 +21,15 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 ---
 
 - Memetic;
-- Hive mind (collective consciousness);
+- Hivemind (collective consciousness);
 - Swarm intelligence;
 
 ---
 
 - Emergence;
 - (Digital) morphogenesis;
+- Evolvable hardware;
+- Evolutionary computation;
 - Artifical life and digital organisms;
 - Organic and bio-insipred computing;
 
@@ -48,6 +50,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 - Abstract board games;
 - Narrative, comparative mythology;
 - Generative art, installations and computational design;
+- Fractals;
 - Comics, machinima, virtual photography.
 
 ---
