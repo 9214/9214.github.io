@@ -31,7 +31,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 - Evolvable hardware;
 - Evolutionary computation;
 - Artifical life and digital organisms;
-- Organic and bio-insipred computing;
+- Organic and bio-inspired computing;
 
 ---
 
@@ -42,6 +42,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 ---
 
 - Formal languages and software language engineering;
+- Parsers, compilers and interpreters;
 - Language-oriented programming and metaprogramming;
 - Concatenative, multidimensional, dataflow and homoiconic programming languages;
 
