@@ -41,7 +41,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 
 - Formal languages and software language engineering;
 - Language-oriented programming and metaprogramming;
-- Concatenative, dataflow and homoiconic programming languages;
+- Concatenative, multidimensional, dataflow and homoiconic programming languages;
 
 ---
 
