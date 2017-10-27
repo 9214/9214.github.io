@@ -6,6 +6,11 @@ date_format: "%Y%m%d"
 permalink:   :title
 exclude:     ["drafts/"]
 
+markdown:    kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
 # contact info
 author:
     email:
