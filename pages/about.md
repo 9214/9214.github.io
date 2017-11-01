@@ -27,6 +27,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 ---
 
 - Emergence;
+- Generative systems;
 - (Digital) morphogenesis;
 - Evolvable hardware;
 - Evolutionary computation;
@@ -38,20 +39,21 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 - Electromagnetic theories of consciousness;
 - EEG, electrophysiology, bioelectromagnetism;
 - Dendrites, dendritic growth and function;
+- BCI and NFB;
+- DSP;
 
 ---
 
-- Formal languages and software language engineering;
-- Parsers, compilers and interpreters;
+- Formal languages and formal systems;
+- Software language engineering and programming language implementation;
 - Language-oriented programming and metaprogramming;
 - Concatenative, multidimensional, dataflow and homoiconic programming languages;
 
 ---
 
 - Abstract board games;
-- Narrative, comparative mythology, Kali;
+- Narrative, comparative mythology, Kali Ma;
 - Generative art, installations and computational design;
-- Fractals;
 - Comics, machinima, virtual photography.
 
 ---
