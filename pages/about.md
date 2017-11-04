@@ -39,8 +39,8 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 - Electromagnetic theories of consciousness;
 - EEG, electrophysiology, bioelectromagnetism;
 - Dendrites, dendritic growth and function;
-- BCI and NFB;
-- DSP;
+- Brain-computer interfaces, biofeedback and neurofeedback;
+- Digital signals and data processing;
 
 ---
 
@@ -52,6 +52,7 @@ If you ever want to reach him, use any of the links below or file an issue in bl
 ---
 
 - Abstract board games;
+- Origami;
 - Narrative, comparative mythology, Kali Ma;
 - Generative art, installations and computational design;
 - Comics, machinima, virtual photography.
