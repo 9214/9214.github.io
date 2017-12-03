@@ -6,10 +6,6 @@ body {
     line-height: $base-line-height;
     color: $text-color;
     background-color: $bg-color;
-    //
-    -webkit-filter: blur(0)
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
 }
 p {
     text-align: justify;
@@ -34,9 +30,7 @@ blockquote {
 }
 img {
     max-width: 100%;
-    // image-rendering: auto;
-    image-rendering: crisp-edges;
-    // image-rendering: pixelated;
+    image-rendering: -webkit-optimize-contrast;
 }
 table {
     margin: 0 auto 25px;
