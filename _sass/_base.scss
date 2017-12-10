@@ -73,20 +73,19 @@ pre {
   display: block;
   margin-top: 0;
   margin-bottom: 1rem;
-  font-size: 0.8rem;
+  font-size: .8rem;
   line-height: 1.4;
   white-space: pre;
   overflow-x: auto;
   background-color: $marker;
   border: 1px solid $border-color;
-  padding: 1rem;
+  padding: .7rem;
   code {
-    font-size: 100%;
+    font-size: $smaller-font-size;
     color: inherit;
     background-color: transparent;
     padding: 0;
     border: transparent;
-    font-size: $small-font-size;
   }
 }
 hr {
