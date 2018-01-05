@@ -7,9 +7,9 @@ main {
 .site-header {
     .site-title {
         margin: 10px 0px 0px;
-        font-family: Helvetica;
+        font-family: $title-font-family;
         font-size: 40px;
-        font-weight: 900;
+        font-weight: 100;
         > a {
             color: $text-color;
             text-decoration: none;
