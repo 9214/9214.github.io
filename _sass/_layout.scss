@@ -1,4 +1,9 @@
 @charset "utf-8";
+
+html {
+  margin-left: calc(100vw - 100%);
+}
+
 main {
     max-width: 48rem;
     margin: 0 auto 3rem;
@@ -18,15 +23,12 @@ main {
     .site-nav {
         > a {
             color: $text-color;
-            &:hover {
-                text-decoration: underline;
-            }
         }
     }
 }
 .icons {
     text-align: center;
-    font-size: 20px;
+    font-size:  20px;
     margin-top: 5px;
     a {
         width: 25px;
