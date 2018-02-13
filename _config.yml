@@ -10,6 +10,8 @@ markdown:    kramdown
 highlighter: rouge
 kramdown:
   input: GFM
+sass:
+  style: compressed
 
 # contact info
 author:
