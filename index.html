@@ -7,8 +7,7 @@ layout: default
         {% for post in site.posts %}
         <li>
             <span>
-                <i class="fa fa-angle-right" aria-hidden="true"></i>
-                {{ post.date | date: site.date_format }}
+                > {{ post.date | date: site.date_format }}
             </span>
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </li>
