@@ -16,26 +16,25 @@ sass:
 # contact info
 author:
     email:
+      fret: s
       icon: envelope
       link: mailto:9214@protonmail.com
     telegram:
+      fret: b
       icon: telegram
       link: https://t.me/lllllllllillilillll
     github:
+      fret: b
       icon: github-alt 
       link: https://github.com/9214
     instagram:
+      fret: b
       icon: instagram 
       link: https://www.instagram.com/lllllllllillilillll/
-    last-fm:
-      icon: lastfm-square
-      link: https://www.last.fm/user/ghsthrdwr
-    goodreads:
-      icon: book
-      link: https://goodreads.com/9214
-    steam:
-      icon: steam
-      link: http://steamcommunity.com/id/lllllllllillilillll
+    tips:
+      fret: b
+      icon: ethereum
+      link: https://etherscan.io/address/0x6a15006e3370ba4f390960073cc0823a2b04663d
 
 # third-party services
 google_analytics:
